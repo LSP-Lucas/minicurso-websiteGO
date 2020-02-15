@@ -1,2 +1,2 @@
 # site
-Minicurso websiteGo
+Código criado na semana do minicurso WebsiteGO. 
